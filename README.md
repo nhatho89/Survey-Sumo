@@ -17,4 +17,4 @@ Local Development
 7. Open project at 'http://localhost:8000/polls/' using any browser
 
 
-![Survey Sumo Home Page](.polls/static/polls/images/polls.png)
+![Survey Sumo Home Page](./polls/static/polls/images/polls.png)
