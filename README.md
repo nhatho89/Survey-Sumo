@@ -15,3 +15,6 @@ Local Development
    written super user. From here you can create/view poll questions and choices.
 
 7. Open project at 'http://localhost:8000/polls/' using any browser
+
+
+![Survey Sumo Home Page](./images/polls.png)
