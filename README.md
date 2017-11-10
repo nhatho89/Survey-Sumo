@@ -18,3 +18,5 @@ Local Development
 
 
 ![Survey Sumo Home Page](./polls/static/polls/images/polls.png)
+
+![Survey Sumo Admin Page](./polls/static/polls/images/admin.png)
